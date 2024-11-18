@@ -1,0 +1,19 @@
+{
+  "name": "fbreact",
+  "version": "1.0.0",
+  "description": "all about irebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahab0105/fbreact.git"
+  },
+  "author": "shahab uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahab0105/fbreact/issues"
+  },
+  "homepage": "https://github.com/shahab0105/fbreact#readme"
+}
